@@ -13,7 +13,7 @@ Unityで制作しているゲームと、ARAPメッシュ変形の研究資料�
 
 ## ARAP Research
 
-ARAP（As-Rigid-As-Possible）メッシュ変形の実験コードと資料です。
+大学の研究活動で行った、ARAP（As-Rigid-As-Possible）メッシュ変形の実験コードと資料です。
 
 - [研究用フォルダ](./ARAP-Research/)
 - [研究内容の説明](./ARAP-Research/README.md)
