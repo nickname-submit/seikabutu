@@ -4,7 +4,7 @@ Unityで制作しているゲームと、ARAPメッシュ変形の研究資料�
 
 ## Witch and Hero
 
-魔女を守りながらモンスターを倒す2Dアクションゲームです。
+魔女を守りながらモンスターを倒す2Dアクションゲームです。このゲームは現在開発中です。
 
 - [ゲーム用フォルダ](./Witch-and-Hero/)
 - [Mac版アプリ（Universal Binary）](./Witch-and-Hero/Witch-and-Hero-macOS.zip)
